@@ -5,6 +5,7 @@ I'm Emmanuel 👋
 - 🌱 I'm a result oriented software developer.
 - 👯 I’m looking to collaborate on projects with other software developers
 - ⚡ Fun fact: I try to make things work 😊 .
+- ⚡ UI/UX designer
 
 ### Languages and tools
 
@@ -18,3 +19,7 @@ I'm Emmanuel 👋
 ![aws](https://user-images.githubusercontent.com/53606868/160793512-aa420ab2-7c23-47b8-9407-63097aee126d.png)
 ![firebase](https://user-images.githubusercontent.com/53606868/160793518-83fd7fee-060e-46e8-b1fa-fea32f5015ad.png)
 ![nodejs](https://user-images.githubusercontent.com/53606868/160793546-82d5d547-3435-4faa-b4f8-01197c4a5057.png)
+![wp](https://user-images.githubusercontent.com/53606868/160797141-8813a57b-47cc-4cbc-944d-24f7bec66a92.png)
+![retrofit](https://user-images.githubusercontent.com/53606868/160797444-073b3aa1-c293-49dc-8343-5c3a01f362e4.png)
+
+
